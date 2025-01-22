@@ -1,4 +1,4 @@
-﻿The Project Gutenberg eBook of The Four-Finger Glove, by Nicholas Carter
+﻿The Project Gutenberg eBook of The Four-Fingered Glove, by Nicholas Carter
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -8,12 +8,12 @@ www.gutenberg.org. If you are not located in the United States, you
 will have to check the laws of the country where you are located before
 using this eBook.
 
-Title: The Four-Finger Glove
+Title: The Four-Fingered Glove
        Or, The Cost of a Lie
 
 Author: Nicholas Carter
 
-Release Date: November 13, 2021 [eBook #66724]
+Release Date: November 14, 2021 [eBook #66724]
 
 Language: English
 
@@ -22,7 +22,7 @@ Character set encoding: UTF-8
 Produced by: David Edwards, Chuck Greif and the Online Distributed
              Proofreading Team at https://www.pgdp.net
 
-*** START OF THE PROJECT GUTENBERG EBOOK THE FOUR-FINGER GLOVE ***
+*** START OF THE PROJECT GUTENBERG EBOOK THE FOUR-FINGERED GLOVE ***
 
 
 
@@ -8082,7 +8082,7 @@ In the NEW MAGNET LIBRARY there will next appear an exciting story of
 love and crime under the title of “Nabob and Knave,” No. 1171, by
 Nicholas Carter.
 
-*** END OF THE PROJECT GUTENBERG EBOOK THE FOUR-FINGER GLOVE ***
+*** END OF THE PROJECT GUTENBERG EBOOK THE FOUR-FINGERED GLOVE ***
 
 Updated editions will replace the previous one--the old editions will
 be renamed.
